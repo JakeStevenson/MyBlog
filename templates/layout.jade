@@ -19,6 +19,12 @@ head
     //if lt IE 9
       script(src='/bootstrap-3.0.0/assets/js/html5shiv.js')
       script(src='/bootstrap-3.0.0/assets/js/respond.min.js')
+
+    //Syntax highlighting
+    link(href='/css/tomorrow-night-bright.css', rel='stylesheet')
+    script(src='/scripts/highlight.pack.js')
+    script(type='text/javascript').
+        hljs.initHighlightingOnLoad();
 body
     .navbar.navbar-inverse.navbar-fixed-top
         .container
