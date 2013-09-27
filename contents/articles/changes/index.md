@@ -9,7 +9,7 @@ Of course there's a reason I'm starting up a new blog -- I'm making a change in 
 
 I've always been averse to change.  It makes my wife crazy because I resist her re-arranging the furniture.  I resist throwing out an old pair of sneakers and buying new ones.  Moving? I've told her I plan to die in our current house.
 
-So making a career change is especially nerve-wracking.  I do not like it.  It usually takes quite a lot to "push" me out the door at a job, like not paying me for a few months.  I grow attached to my projects.  I grow fond of my co-workers.  I get very comfortable in my little corner of the world.
+So making a career change is especially nerve-wracking.  I do not like it.  It usually takes quite a lot to "push" me out the door at a job, like not paying me (not the case this time) for a few months.  I grow attached to my projects.  I grow fond of my co-workers.  I get very comfortable in my little corner of the world.
 
 And I get stagnant.  I might get a bit TOO comfortable.  I start to turn a blind eye to some of the dirtier code corners in the project.  
 
