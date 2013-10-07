@@ -22,7 +22,7 @@ And that was easy too!  Click "+NEW" on the bottom menu and choose "Virtual Mach
 
 After that you enter a simple name and VM size.  I picked "Large" because it's 4 cores with 7G of memory.  Seems plenty enough for coding.  After that you set up how it will be accessed (RDP enabled by default) and some other simple stuff I forget and then it spins it up.
 
-After about 10 minutes it's there, ready for me. I'm armed with admin credentials and I'm not afraid to use them.  Install Chrome, cygwin, github for windows, node.js.  Everything goes nice ans fast.  This is great!
+After about 10 minutes it's there, ready for me. I'm armed with admin credentials and I'm not afraid to use them.  Install Chrome, cygwin, github for windows, node.js.  Everything goes nice and fast.  This is great!
 
 So that's my plan for a bit, until I'm sure my laptop purchase won't immediately become obsolete.  Development **IN THE CLOUD** free for a month.    
 
