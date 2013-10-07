@@ -5,5 +5,3 @@
 
 rm -r ./build/
 wintersmith build
-cd build
-mongoose
